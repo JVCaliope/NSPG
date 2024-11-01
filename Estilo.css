@@ -482,6 +482,18 @@ font-style: italic;
 }
 
                     /**************
+                    Nossos Objetivos
+                    ***************/
+
+.Nossos_Objetivos{
+box-shadow: #115571;
+border-left: 2px solid #115571;
+border-right: 2px solid #115571;
+}
+
+
+
+                    /**************
                     Barra inferior 
                     ***************/
 
